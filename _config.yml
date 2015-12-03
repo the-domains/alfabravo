@@ -1,0 +1,28 @@
+name: AlfaBravo
+favicon: null
+layout_spectrum: 0.9455758335534483
+typography_spectrum: 0.5292020996566862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.15367747889831662
+  lightness: 0.1825764763634652
+  saturation: 0.17024646769277751
+  rhythmicContrast: 0.8886335443239659
+purpose: []
